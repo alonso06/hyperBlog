@@ -15,7 +15,8 @@ body{
 .footer{
     text-align: center;
     font-family: Verdana;
-    background-color: grey;
+    background-color: lightcoral;
+    padding: 30px;
 }
 .footer>a{
     padding-left: 15px;
