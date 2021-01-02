@@ -12,6 +12,10 @@ body{
     font-family: Georgia;
     border-color: brown;
 }
+.menubar>a{
+    padding-left: 15px;
+    padding-right: 15px;
+}
 .footer{
     text-align: center;
     font-family: Verdana;
