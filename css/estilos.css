@@ -12,3 +12,12 @@ body{
     font-family: Georgia;
     border-color: brown;
 }
+.footer{
+    text-align: center;
+    font-family: Verdana;
+    background-color: grey;
+}
+.footer>a{
+    padding-left: 15px;
+    padding-right: 15px;
+}
