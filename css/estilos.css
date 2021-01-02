@@ -1,6 +1,14 @@
 body{
-    color:green;
+    color: green;
+    background-color: bisque;
+}
+.container{
     text-align: center;
     font-family: arial;
-    background-color: hotpink;
+
+}
+.menubar{
+    text-align: left;
+    font-family: Georgia;
+    border-color: brown;
 }
