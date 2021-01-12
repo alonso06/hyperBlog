@@ -2,6 +2,7 @@
     <head>
         <title>BlogSpot</title>
         <link rel="stylesheet" href="css/estilos.css">
+        <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.0-beta1/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-giJF6kkoqNQ00vy+HMDP7azOuL0xtbfIcaT9wjKHr8RbDVddVHyTfAAsrekwKmP1" crossorigin="anonymous">
     </head>
     <Body>
         <div class="menubar">
@@ -20,10 +21,24 @@
             </div>
         </div>
         <div class="footer">
-            <a href="#">Facebook</a>
-            <a href="#">Youtube/BlogAlonso</a>
-            <a href="#">Contactanos</a>
-            <a href="#">Insertar logo</a>
+            <div class="head-footer">
+                <a href="#">Facebook</a>
+                <a href="#">Youtube/BlogAlonso</a>
+                <a href="#">Contactanos</a>
+                <a href="#">Insertar logo</a>
+            </div>
+            <br>
+            <div class="contact">
+                <h4>Contactanos</h4>
+                <div class="mb-3">
+                    <label for="exampleFormControlInput1" class="form-label">Email</label>
+                    <input type="text" class="form-control" id="exampleFormControlInput1" placeholder="usuario@gmail.com">
+                </div>
+                <div class="mb-3">
+                    <label for="exampleFormControlTextarea1" class="form-label">Comentarios al dueño del blog</label>
+                    <textarea class="form-control" id="exampleFormControlTextarea1" rows="3"></textarea>
+                </div>
+            </div>
         </div>
             
     </Body>

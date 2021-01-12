@@ -13,12 +13,21 @@ body{
     border-color: brown;
 }
 .footer{
-    text-align: center;
     font-family: Verdana;
     background-color: lightgreen;
     padding: 30px;
 }
-.footer>a{
+.head-footer{
+    text-align: center;
+}
+
+.head-footer>a{
     padding-left: 15px;
     padding-right: 15px;
+}
+.contact>h4{
+    text-align:left
+}
+#exampleFormControlTextarea1, #exampleFormControlInput1{
+    width:600px ;
 }
