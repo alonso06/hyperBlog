@@ -1,2 +1,3 @@
 # hyperBlog
-Repositorio de prueba para el curso de Git y GitHub
+Este es un repositorio creado como forma práctica de aprendizaje del curso de **Git** y **Github**
+###### SALUITOSS!!!😂😊❤🎶
